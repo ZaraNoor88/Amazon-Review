@@ -1,1 +1,2 @@
 # Amazon-Review
+This project uses the Amazon Reviews dataset from Kaggale. It has four columns: Rating, Date, Variation, Verified Reviews, and Feedback. Our goal is to classify reviews into positive and negative, making it a binary class classification problem. We use the Naive Bayes classification algorithm with count vectorizer and compare it with logistic regression and gradient boosting classifier. Model evaluation is done by confusion matrix and classification report.
